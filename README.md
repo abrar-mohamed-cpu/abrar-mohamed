@@ -1,6 +1,6 @@
 # abrar-mohamed
 my personal profile
-# Hi, I'm Gamal Hafez 👋
+# Hi, I'm abrar mohamed 👋
 
 I’m a recent graduate from a business college, and I’m now shifting my career to become a web developer. I began my journey by learning **programming fundamentals using Python**, and built several small projects, including interactive games with Turtle graphics. 
 
@@ -20,7 +20,6 @@ After gaining confidence with Python, I shifted my focus to **web development**,
 
 ## 📫 Connect With Me
 
-- 📧 Email: gamal.k.hafez@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/gamalhafez](https://www.linkedin.com/in/gamal-hafez/)
-- 💻 Frontend Mentor: [@gamalhafez](https://www.frontendmentor.io/profile/gamalhafez)
-- 🌍 GitHub: [@gamalhafez](https://github.com/gamalhafez)
+- 📧 Email: abrarmohamed158@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/abrar-mohamed-1019a8362?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  
