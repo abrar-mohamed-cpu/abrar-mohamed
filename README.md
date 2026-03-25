@@ -2,7 +2,7 @@
 my personal profile
 # Hi, I'm abrar mohamed 👋
 
-  I began my journey by learning **programming fundamentals using Python**, and built several small projects, including interactive games with Turtle graphics. 
+  I began my journey by learning **programming fundamentals using Python**, and built several small projects . 
 
 After gaining confidence with Python, I shifted my focus to **web development**, where I’m now building a solid foundation in **HTML**, **CSS**, and **JavaScript**. I'm passionate about technology and love creating things that are both useful and user-friendly.
 
